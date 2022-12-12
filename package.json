@@ -1,0 +1,16 @@
+{
+	"name": "@sgoossens/SinonOverflowExpample",
+	"version": "0.0.0",
+	"description": "overflow logging for sinon",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sgoossens/SinonOverflowExample.git"
+	},
+	"license": "",
+	"author": "",
+	"main": "app.js",
+	"devDependencies": {
+		"sinon": "15.0.0",
+		"chance": "1.1.9"
+	}
+}
